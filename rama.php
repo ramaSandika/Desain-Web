@@ -60,7 +60,7 @@ function test_input($data) {
 }
 ?>
 
-<h2>Form Saran</h2>
+<h2>Form Sarans</h2>
 <p><span class="error">* wajib diisi</span></p>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
     <table>
